@@ -1,0 +1,29 @@
+.appointmentsWrapper {
+  width: 15%;
+  background-color: #65f84f;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.appointmentWrapper {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.appointmentWrapper:hover {
+  background-color: #f8e74f;
+}
+
+.header {
+  margin: 4%;
+  text-align: center;
+}
+
+.unavailable {
+  background-color: #f84f52;
+  text-align: center;
+}
+
+.nameWrapper {
+  float: right;
+}
